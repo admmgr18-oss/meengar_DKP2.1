@@ -1,10 +1,10 @@
 {
-  "id": "dkp-staf-penilaian",
+  "id": "meengar_DKP2.1",
   "name": "DKP Staf · Penilaian & Tugasan",
   "short_name": "Staf KPI",
   "description": "Laporan tugasan harian dan penilaian staf",
-  "start_url": "/staff-penilaian/",
-  "scope": "/staff-penilaian/",
+  "start_url": "/meengar_DKP2.1/",
+  "scope": "/meengar_DKP2.1/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#14365c",
